@@ -1038,8 +1038,9 @@
   - point: Secure DNS
     priority: Optional
     details: >-
-      Use DNS-over-HTTPS which performs DNS resolution via the HTTPS protocol, encrypting data between you
-      and your DNS resolver.
+      Use DNS-over-HTTPS (DoH) or DNS-over-TLS (DoT) to encrypt DNS resolution between your devices, router,
+      and your resolver. Consider privacy-respecting and filtering services like [Quad9](https://quad9.net),
+      [NextDNS](https://nextdns.io), or [GateDNS](https://gatedns.app) to block ads and malicious domains network-wide.
 
   - point: Avoid the free router from your ISP
     priority: Optional
