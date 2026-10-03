@@ -597,6 +597,7 @@ This section has moved to [here](/6_Privacy_and-Security_Gadgets.md). Products, 
   - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) by @drduh
   - [Debian-Privacy-Server-Guide](https://github.com/drduh/Debian-Privacy-Server-Guide) by @drduh
   - [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @lissy93
+  - [counter-osint-guide](https://github.com/soxoj/counter-osint-guide-en) by @soxoj
 - **Security Links (Hacking / Pen Testing / Threat Inteligence / CFTs)**
   - [Security_list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
   - [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
