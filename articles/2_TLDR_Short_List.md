@@ -69,6 +69,10 @@ It's important to protect your email account, as if a hacker gains access to it 
 - Use a [secure DNS](https://awesome-privacy.xyz/networking/dns-providers) provider, such as [Cloudflare's 1.1.1.1](https://1.1.1.1/dns/), [Quad9](https://quad9.net) or [AdGuard DNS](https://adguard-dns.io), to reduce tracking. Ideally configure this on your router, but if that's not possible, then it can be done on each device. 
 
 
+### Backups
+- Keep encrypted backups of your important data, and test that you can restore them. This protects you from ransomware, theft or damage
+
+
 **📜 See More**: [The Complete Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist/blob/master/CHECKLIST.md)
 
 ----
