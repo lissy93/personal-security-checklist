@@ -1038,8 +1038,8 @@
   - point: Secure DNS
     priority: Optional
     details: >-
-      Use DNS-over-HTTPS which performs DNS resolution via the HTTPS protocol, encrypting data between you
-      and your DNS resolver.
+      Set up encrypted DNS on your device or router, so it covers every app, not just your browser. See this
+      [list of providers and their addresses](https://adguard-dns.io/kb/general/dns-providers/).
 
   - point: Avoid the free router from your ISP
     priority: Optional
