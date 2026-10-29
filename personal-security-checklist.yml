@@ -957,12 +957,6 @@
       way that is imperceptible by humans, but will prevent facial recognition systems from being able to recognize
       a given face.
 
-  - point: Consider Spoofing GPS in home vicinity
-    priority: Advanced
-    details: >-
-      Even if you yourself never use social media, there is always going to be others who are not as careful,
-      and could reveal your location.
-
   - point: Consider False Information
     priority: Advanced
     details: >-
