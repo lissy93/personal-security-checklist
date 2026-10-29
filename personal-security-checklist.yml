@@ -372,9 +372,9 @@
   - point: Block Third-Party Cookies
     priority: Essential
     details: >-
-      Third-party cookies placed on your device by a website other than the one you’re visiting. This
-      poses a privacy risk, as a 3rd entity can collect data from your current session. This guide explains
-      how you can disable 3rd-party cookies, and you can check here ensure this worked.
+      Third-party cookies are placed on your device by a website other than the one you’re visiting. This
+      poses a privacy risk, as a 3rd entity can collect data from your current session. Firefox, Safari and
+      Brave protect against them by default. In Chrome or Edge, turn them off in your privacy settings.
 
   - point: Block Third-Party Trackers
     priority: Essential
