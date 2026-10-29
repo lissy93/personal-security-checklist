@@ -79,7 +79,7 @@ It's important to protect your email account, as if a hacker gains access to it 
 
 
 ## OPEN-SOURCE, PRIVACY-FOCUSED SOFTWARE
-Switch to alternative open-source, privacy-respecting apps and services, which won't collect your data, track you or show targetted ads.
+Switch to alternative open-source, privacy-respecting apps and services, which won't collect your data, track you or show targeted ads.
 
 #### Security
 - Password Managers: [BitWarden] | [1Password] *(proprietary)* | [KeePassXC] *(offline)* | [LessPass] *(stateless)*
@@ -89,7 +89,7 @@ Switch to alternative open-source, privacy-respecting apps and services, which w
 - Encrypted Email: [ProtonMail] | [MailFence] | [Tutanota] | (+ also [33Mail] | [anonaddy] for aliasing)
 - Private Browsers: [Brave Browser] | [Firefox] *with [some tweaks](https://restoreprivacy.com/firefox-privacy/)* | [Tor]
 - Non-Tracking Search Engines: [DuckDuckGo] | [StartPage] | [SearXNG] *(self-hosted)* | [Qwant]
-- VPN: [Mullvad] | [ProtonVPN]  | [Windscribe] | [IVPN] *(better still, use [Tor] for anonimity)*. See also [VPN Warning Note]
+- VPN: [Mullvad] | [ProtonVPN]  | [Windscribe] | [IVPN] *(better still, use [Tor] for anonymity)*. See also [VPN Warning Note]
 - App Firewall: [NetGuard] (Android) | [Lockdown] (iOS) | [OpenSnitch] (Linux) | [LuLu] (MacOS)
 
 #### Browser Extensions
@@ -105,7 +105,7 @@ Switch to alternative open-source, privacy-respecting apps and services, which w
 - [Exodus] - Shows which trackers are on your device.
 - [Orbot]- System-wide Tor Proxy.
 - [Island] - Sand-box environment for apps.
-- [NetGuard] - Controll which apps have network access.
+- [NetGuard] - Control which apps have network access.
 - [Greenify] - Control which apps can run in the background.
 - [1.1.1.1] - Use CloudFlare's DNS over HTTPS.
 - [Fing App] - Monitor your home WiFi network for intruders
@@ -126,7 +126,7 @@ Switch to alternative open-source, privacy-respecting apps and services, which w
 - Blogging: [Write Freely].
 - Calendar/ Contacts Sync: [ETE Sync]
 
-📜 **See More**: [Complete List of Privacy-Respecting Sofware](https://github.com/Lissy93/awesome-privacy)
+📜 **See More**: [Complete List of Privacy-Respecting Software](https://github.com/Lissy93/awesome-privacy)
 
 ----
 

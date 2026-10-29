@@ -106,7 +106,7 @@
     priority: Optional
     details: >-
       Avoid logging in on other people's computers since you can't be sure their system is clean. Be especially cautious
-      of public machines, as malware and tracking arr more common here. Using someone else's device is especially
+      of public machines, as malware and tracking are more common here. Using someone else's device is especially
       dangerous with critical accounts like online banking. When using someone else's machine, ensure that you're in a
       private/incognito session (Use Ctrl+Shift+N/ Cmd+Shift+N). This will request the browser to not save your credentials,
       cookies, and browsing history.
@@ -321,7 +321,7 @@
       the green padlock give you a false sense of security, just because a website has SSL certificate, does
       not mean that it is legitimate or trustworthy. [HTTPS-Everywhere](https://www.eff.org/https-everywhere)
       (developed by the [EFF](https://www.eff.org/)) used to be a browser extension/addon that automatically
-      enabled HTTPS on websites, but as of 2022 is now deprecated. In their [accouncement article](https://www.eff.org/)
+      enabled HTTPS on websites, but as of 2022 is now deprecated. In their [announcement article](https://www.eff.org/)
       the EFF explains that most browsers now integrate such protections. Additionally, it provides instructions
       for [Firefox](https://awesome-privacy.xyz/essentials/browsers/firefox), Chrome, Edge and Safari browsers on how to enable their HTTPS secure protections.
 
@@ -1039,7 +1039,7 @@
   - point: Avoid the free router from your ISP
     priority: Optional
     details: >-
-      Typically they’re manufactured cheaply in bulk in China, with insecure propriety firmware that doesn't
+      Typically they’re manufactured cheaply in bulk in China, with insecure proprietary firmware that doesn't
       receive regular security updates.
 
   - point: Whitelist MAC Addresses
@@ -1756,7 +1756,7 @@
   intro: >-
     Many data breaches, hacks and attacks are caused by human error.
     The following list contains steps you should take, to reduce the risk of this
-    happening to you. Many of them are common sense, but it's worth takin note of.
+    happening to you. Many of them are common sense, but it's worth taking note of.
 
   checklist:
   - point: Verify Recipients
