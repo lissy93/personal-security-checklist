@@ -1692,11 +1692,12 @@
       Pay with [Cash](https://awesome-privacy.xyz/finance/other-payment-methods/cash) for local and everyday purchases to avoid financial profiling by institutions.
 
   - point: Use Cryptocurrency for Online Transactions
-    priority: Optional
+    priority: Advanced
     details: >-
-      Opt for privacy-focused cryptocurrencies like
-      [Monero](https://awesome-privacy.xyz/finance/cryptocurrencies/monero) for
-      online transactions to maintain anonymity. Use cryptocurrencies wisely to ensure privacy.
+      Most cryptocurrencies, like Bitcoin, record every transaction on a public ledger, and exchanges tie
+      purchases to your identity. Privacy-focused coins like
+      [Monero](https://awesome-privacy.xyz/finance/cryptocurrencies/monero) help with this, but have a
+      steeper learning curve.
 
   - point: Store Crypto Securely
     priority: Advanced
