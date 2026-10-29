@@ -1945,6 +1945,10 @@
     priority: Optional
     details: Use alternative locations, forwarding addresses, and anonymous payment methods to protect your home address.
 
+  - point: Use a Portable Door Lock When Travelling
+    priority: Optional
+    details: Other people may have keys to your hotel or rental room. A portable door lock or door alarm is cheap, and makes it much harder for anyone to get in unnoticed.
+
   - point: Use a PIN, Not Biometrics
     priority: Advanced
     details: Prefer PINs over biometrics for device security in situations where legal coercion to unlock devices may occur.
