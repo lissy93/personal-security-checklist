@@ -331,7 +331,7 @@
       Traditional DNS makes requests in plain text for everyone to see. It allows for eavesdropping and
       manipulation of DNS data through man-in-the-middle attacks. Whereas DNS-over-HTTPS performs DNS
       resolution via the HTTPS protocol, meaning data between you and your DNS resolver is encrypted.
-      A popular option is [CloudFlare](https://awesome-privacy.xyz/networking/dns-providers/cloudflare)'s [1.1.1.1](https://awesome-privacy.xyz/security-tools/mobile-apps/1.1.1.1), or [compare providers](https://awesome-privacy.xyz/networking/dns-providers) - it is simple to enable in-browser.
+      DNS-over-TLS works just as well. A popular option is [CloudFlare](https://awesome-privacy.xyz/networking/dns-providers/cloudflare)'s [1.1.1.1](https://awesome-privacy.xyz/security-tools/mobile-apps/1.1.1.1), or [compare providers](https://awesome-privacy.xyz/networking/dns-providers) - it is simple to enable in-browser.
       Note that DoH comes with its own issues, mostly preventing web filtering.
 
   - point: Compartmentalise Your Browsing
