@@ -1026,8 +1026,8 @@
   - point: Protect against DNS leaks
     priority: Optional
     details: >-
-      When using a VPN, it is extremely important to exclusively use the DNS server of your VPN provider or
-      secure service.
+      When using a VPN, make sure your DNS requests go through it, not your ISP. Most good VPN apps do this
+      by default, but you can check with a [DNS leak test](https://www.dnsleaktest.com).
 
   - point: Use a secure VPN Protocol
     priority: Optional
