@@ -18,4 +18,4 @@ You can find project setup, build and deploy instructions in the [README](./READ
 > - If you're adding or deleting something major, you should consider opening an issue first to discuss it.
 
 > [!WARNING]
-> Users submitting PRs, issues or comments which are either obviously spam or activley offensive **will be reported**
+> Users submitting PRs, issues or comments which are either obviously spam or actively offensive **will be reported**

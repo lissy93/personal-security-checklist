@@ -1,4 +1,4 @@
-# Choosing a Secure Messenging Platform
+# Choosing a Secure Messaging Platform
 
 This article explains the considerations you should be aware of when selecting a secure messenger.
 
@@ -13,7 +13,7 @@ End-to-end encryption means that messages are encrypted locally on your device, 
 The most secure designs, are the ones you do not have to trust. Without an app being open source, we can not verify that it is truly secure. It may have backdoors, weak cryptography or security vulnerabilities. This is one reason why apps which has fully-open and public source code can be more trustworthy But don't be fooled by false advertising; just because an app uses open source cryptography, does not mean it is fully open source, and hence cannot be verified. The published source code must be complete, and the security design system must be thoroughly documented.
 
 ### Code Audit
-As well as encryption, the developers need to take care of code quality, user experience, and service availability. The math behind the cryptography may be flawless, but a small mistake in the implementation, can result in serious consequences for security. Therefore the code base should be regularly audited by independant security specialists, and the report published publicly.
+As well as encryption, the developers need to take care of code quality, user experience, and service availability. The math behind the cryptography may be flawless, but a small mistake in the implementation, can result in serious consequences for security. Therefore the code base should be regularly audited by independent security specialists, and the report published publicly.
 
 ### Active Maintenance
 Pushing  well tested security updates in a timely manner is of prime importance to security.  New bugs, vulnerabilities and issues are being discovered all the time, and without being patched they may be exploited by an adversary.  For a messenger to be secure, a public stable (non-beta) release needs to be available, and there needs to be secure auto-updating mechanisms to quickly mitigate security problems. It should be clear to the user which version they are running, and if a newer version is available
