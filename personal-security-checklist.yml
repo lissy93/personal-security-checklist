@@ -474,7 +474,8 @@
     priority: Optional
     details: >-
       WebRTC allows high-quality audio/video communication and peer-to-peer file-sharing straight from the
-      browser. However it can pose as a privacy leak. To learn more, check out this guide.
+      browser. However it can leak your real IP address when using a proxy or some VPNs. You can
+      [check if you're affected here](https://browserleaks.com/webrtc).
 
   - point: Spoof HTML5 Canvas Sig
     priority: Optional
