@@ -1071,12 +1071,6 @@
       WiFi SSIDs are scanned, logged, and then published on various websites, which is a serious privacy
       concern for some.
 
-  - point: Hide your SSID
-    priority: Optional
-    details: >-
-      Your router's Service Set Identifier is simply the network name. If it is not visible, it may receive
-      less abuse.
-
   - point: Disable WPS
     priority: Optional
     details: >-
