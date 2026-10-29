@@ -1646,6 +1646,12 @@
     priority: Advanced
     details: >-
       Consider the privacy implications for all household members and adjust device settings for security and privacy, such as disabling devices at certain times.
+
+  - point: Avoid smart devices you don't need
+    priority: Advanced
+    details: >-
+      Every connected device adds risk. If something doesn't need to be smart, a regular version is the
+      safer choice.
   color: red
   softwareLinks:
   - title: Home Automation
