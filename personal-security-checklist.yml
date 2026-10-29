@@ -417,8 +417,8 @@
     priority: Optional
     details: >-
       Browser push notifications are a common method for criminals to encourage you to click their link, since
-      it is easy to spoof the source. Be aware of this, and for instructions on disabling browser notifications,
-      see this article.
+      it is easy to spoof the source. Be aware of this, and turn them off in your browser settings, or only
+      allow sites you trust.
 
   - point: Disable Automatic Downloads
     priority: Optional
