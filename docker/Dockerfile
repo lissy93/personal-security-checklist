@@ -7,7 +7,7 @@
 
 # Build the static site. The output is identical for every platform, so this stage
 # runs natively on the build machine, and is shared by all target architectures
-FROM --platform=$BUILDPLATFORM node:24.21.0-alpine@sha256:ebfe2f90462722a7a4de65e91990e97fe0d401c70e0e762c5b53302f905ec1c1 AS build
+FROM --platform=$BUILDPLATFORM node:24.22.1-alpine@sha256:06d7adf3e0ef61a13f1d28682726366f97a15aa1888c934d3ecec86c33918b53 AS build
 WORKDIR /app/web
 
 # Install dependencies first, so that layer is reused until the lockfile changes
@@ -27,7 +27,7 @@ RUN yarn build.ssg
 
 # Serve the site with nginx. This stage only copies files in (no RUN), so it needs
 # no emulation when building for other architectures
-FROM nginxinc/nginx-unprivileged:1.31.6-alpine-slim@sha256:ac4d9c7e457c6510b95ac72dd84b27f7cc68ecb9a83fbd44f05a6460cf08aba4
+FROM nginxinc/nginx-unprivileged:1.31.7-alpine-slim@sha256:a8cb0f33d51fa107c96fd2bd3a71aaf564ec131e9d2bdf8700944f0ed8b170d7
 
 LABEL org.opencontainers.image.title="Personal Security Checklist" \
       org.opencontainers.image.description="The Digital Defense website: 300+ tips for protecting your digital security and privacy" \
