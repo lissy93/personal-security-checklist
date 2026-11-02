@@ -78,6 +78,10 @@
       that you can change your passwords for the affected accounts. [Have i been pwned](https://awesome-privacy.xyz/security-tools/online-tools/have-i-been-pwned) also has domain-wide
       notification, where you can receive alerts if any email addresses under your entire domain appear (useful if
       you use aliases for [anonymous forwarding](https://github.com/Lissy93/awesome-privacy#anonymous-mail-forwarding)).
+      For manual checks, [Have I Been Ransomed?](https://haveibeenransom.com/) searches exposure by email,
+      phone number or company domain. [Breach House](https://breach.house/) lets you search ransomware,
+      breach and stealer listings by keyword. A listing may need further verification, and no match does
+      not establish that an account is safe.
 
   - point: Shield your Password/PIN
     priority: Optional
