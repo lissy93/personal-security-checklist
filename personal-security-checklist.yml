@@ -1840,6 +1840,26 @@
     details: >-
       Many apps and services default to data sharing settings. Opt out to protect your data from being shared with third parties.
 
+  - point: Turn off AI-training settings on consumer chat apps
+    priority: Optional
+    details: >-
+      Many consumer AI chat apps use new conversations to train models unless you
+      turn that off. In ChatGPT, go to Settings, then Data controls, and turn off
+      "Improve the model for everyone" (on by default for personal Free, Plus, and
+      Pro accounts; OpenAI documents exceptions for Trusted Access sessions and for
+      thumbs-up or thumbs-down feedback). See
+      [OpenAI's Data controls FAQ](https://help.openai.com/en/articles/7730893-data-controls-faq).
+      In Claude, go to Settings, then Privacy, and turn off "Help improve our AI models".
+      See [Anthropic's model improvement settings](https://privacy.claude.com/en/articles/12109829-how-do-i-change-my-model-improvement-privacy-settings).
+      In Gemini, go to Settings & help, then Activity, and choose Turn off, or Turn off
+      and delete activity. Keep Activity is on by default if you are 18 or over, and
+      even when it is off, future chats are not used to train Google's AI models unless
+      you send feedback. Google still keeps those chats for up to 72 hours. See
+      [Manage & delete your activity in Gemini Apps](https://support.google.com/gemini/answer/13278892)
+      and the [Gemini Apps Privacy Hub](https://support.google.com/gemini/answer/13594961).
+      For more apps, a dated set of vendor-sourced walk-throughs is at
+      [The AI opt-out checklist](https://privacytoggles.com/checklist/).
+
   - point: Review and update social media privacy
     priority: Optional
     details: >-
